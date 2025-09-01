@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 DEFAULT_ALPHA = 0.4
-MIN_ALPHA = 0.0
+MIN_ALPHA = 0.05
 MAX_ALPHA = 1.0
 STEP_ALPHA = 0.05
 
